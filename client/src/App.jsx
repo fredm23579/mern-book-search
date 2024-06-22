@@ -5,7 +5,7 @@ import SavedBooks from './pages/SavedBooks';
 import SearchBooks from './pages/SearchBooks';
 import LoginForm from './components/LoginForm';
 import SignupForm from './components/SignupForm';
-import './App.css'
+import './App.css';
 
 function App() {
   return (
